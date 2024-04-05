@@ -62,7 +62,7 @@ namespace ej3 {
         return mapaTareas.get(nombrePersona);
     }
 
-    //list de tareas
+    //array de tareas
     const tareas: Tarea[] = [
         { nombre: "Hacer TP1 progra", estado: "pendiente", prioridad: "alta", persona: { nombre: "Pepe" } },
         { nombre: "Comprar comida perro", estado: "completada", prioridad: "media", persona: { nombre: "Lala" } },
