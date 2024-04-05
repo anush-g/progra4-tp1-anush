@@ -16,5 +16,5 @@ EJERCICIO 4
 * Usé regex para validar, como el ej 4 de la clase 2.
 * Agregué otro tipo de datos para indicar si algo era válido o no, algo medio booleano.
 * Indiqué los diferentes casos (nombre o nombre apellido)
-* Fui devolviendo válido/inválido según cumplía las condiciones
+* Fui devolviendo válido/inválido según cumplía las condiciones.
 * Lo probé en el console con diferentes casos.
