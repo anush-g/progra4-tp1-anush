@@ -10,3 +10,11 @@ EJERCICIO 3
 * Primero agregué una nueva interfaz PersonaAsignada (a la que solo le puse la propiedad nombre para simplificar) y a la interfaz Tarea le agregué la propiedad persona, para conectarla con la nueva interfaz PersonaAsignada.
 * Después intenté copiar lo que vimos en clase de Map en la solución 4 del ejercicio 1 de la clase 2 y usar eso mismo pero cambiando lo que fuera necesario para que funcione con mi modelo.
 * Agregué algo que me faltó en el ej 1 que es el undefined para cuando una persona no tiene tareas pendientes.
+
+EJERCICIO 4
+* Empecé a encararlo como uno que habíamos visto en clase en el que el usuario podía ser un objeto interfaz Persona (con nombre y, quizás apellido con el ?) o el tipo de dato string (pensando en el nombre solamente).
+* Usé regex para validar, como el ej 4 de la clase 2.
+* Agregué otro tipo de datos para indicar si algo era válido o no, algo medio booleano.
+* Indiqué los diferentes casos (nombre o nombre apellido)
+* Fui devolviendo válido/inválido según cumplía las condiciones
+* Lo probé en el console con diferentes casos.
